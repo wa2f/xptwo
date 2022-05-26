@@ -1,0 +1,63 @@
+span{
+    color: red;
+    font-family: "Rasa SemiBold";
+}
+.indexbody{
+    background-image: url("../images/allison-saeng-1T3Cwc75Nrs-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+.bodyindextwodivs{
+    height: auto;
+}
+.divindex_left{
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.divindex_right{
+
+}
+.divindex_right img{
+    border-top-right-radius: 100%;
+    border-top-left-radius: 100%;
+    width: 85%;
+    min-width: 350px;
+    margin-top: 10%;
+}
+.nav-link:hover{
+    color: rgb(255, 20, 147);
+}
+.jumbotronindex{
+    bottom: 0;
+    width: 100%;
+    background-image: url("../images/sarah-dorweiler-x2Tmfd1-SgA-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.7;
+}
+.container{
+    margin-top: 13%;
+}
+.column_footer{
+    width: 60%;
+    margin-top: 10%;
+    margin-right: 20%;
+    margin-left: 20%;
+    border-radius: 20%;
+}
+.indexfootercol img{
+    width: 100%;
+}
+.trynowbtn{
+    height: auto;
+    padding: 10px;
+    border-radius: 20%;
+    color: deeppink;
+    border: 1.5px solid deeppink;
+}

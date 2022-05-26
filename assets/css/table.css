@@ -1,0 +1,48 @@
+.index_body{
+    background-image: url("../images/alona-gross-ARe_Kh9bOMU-unsplash.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.index_link{
+    float: right;
+    height: 30px;
+    cursor: pointer;
+    background-image: url("../images/alona-gross-ARe_Kh9bOMU-unsplash.jpg");
+    border-radius: 10px;
+    text-decoration: none;
+    border: unset;
+}
+.index_link:hover{
+    height: 35px;
+}
+/*table natives css starts here*/
+.table, tr, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+.table_natives{
+    border-collapse: collapse;
+    width: 100%;
+
+}
+.tr, th, td{
+    height: 35px;
+    parding-left: 10px;
+}
+.td{
+    margin-left: 5px;
+}
+
+
+/*table insidecss*/
+.metals_hthree{
+    color: blue;
+}
+.paints{
+    color: blue;
+    font-size: 25px;
+    text-align: left;
+
+}
